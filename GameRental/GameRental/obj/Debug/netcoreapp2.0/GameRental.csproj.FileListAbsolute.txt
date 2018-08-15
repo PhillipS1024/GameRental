@@ -1,0 +1,11 @@
+C:\Users\teven\source\repos\GameRental\GameRental\bin\Debug\netcoreapp2.0\GameRental.deps.json
+C:\Users\teven\source\repos\GameRental\GameRental\bin\Debug\netcoreapp2.0\GameRental.runtimeconfig.json
+C:\Users\teven\source\repos\GameRental\GameRental\bin\Debug\netcoreapp2.0\GameRental.runtimeconfig.dev.json
+C:\Users\teven\source\repos\GameRental\GameRental\bin\Debug\netcoreapp2.0\GameRental.dll
+C:\Users\teven\source\repos\GameRental\GameRental\obj\Debug\netcoreapp2.0\GameRental.csprojAssemblyReference.cache
+C:\Users\teven\source\repos\GameRental\GameRental\obj\Debug\netcoreapp2.0\GameRental.csproj.CoreCompileInputs.cache
+C:\Users\teven\source\repos\GameRental\GameRental\obj\Debug\netcoreapp2.0\GameRental.AssemblyInfoInputs.cache
+C:\Users\teven\source\repos\GameRental\GameRental\obj\Debug\netcoreapp2.0\GameRental.AssemblyInfo.cs
+C:\Users\teven\source\repos\GameRental\GameRental\bin\Debug\netcoreapp2.0\GameRental.pdb
+C:\Users\teven\source\repos\GameRental\GameRental\obj\Debug\netcoreapp2.0\GameRental.dll
+C:\Users\teven\source\repos\GameRental\GameRental\obj\Debug\netcoreapp2.0\GameRental.pdb
